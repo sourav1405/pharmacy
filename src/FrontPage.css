@@ -1,0 +1,58 @@
+.frontpage-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#002633;
+    height: 100vh;
+    padding-left: 0;
+    margin-left: 0%;
+  }
+  
+  .frontpage-content {
+    color: white;
+   
+  }
+  
+  .frontpage-content h2 {
+    padding-left: 0;
+    margin-left: 0;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.1;
+    
+  }
+  
+  .frontpage-content p {
+   
+        line-height: 2;
+        max-width: 45em;
+        margin-bottom: 2rem;
+        color: var(--clr-grey-5);
+        font-size: 1rem;
+
+  }
+  
+  .store-logos {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .store-logos a {
+    margin-right: 10px;
+  }
+  
+  .store-logos img {
+    width: 120px;
+  }
+  
+  .curved-image {
+    width: 400px;
+    height: 100%;
+    background-image: url('./Assets/asd.jpg'); /* Replace with your curved image */
+    background-size: cover;
+    background-position: center;
+    border-radius: 50% 0 0 50%;
+  }
+  

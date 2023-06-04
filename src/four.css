@@ -1,0 +1,15 @@
+.containe {
+     /* Adjust the padding as desired */
+    margin: 0 0 0 0;
+     /* Adjust the background color as desired */
+  }
+  
+ .h2 {
+    color: #002633;
+   margin-left: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #9ef1fe;
+  }
+  

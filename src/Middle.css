@@ -1,0 +1,13 @@
+.container {
+    padding: 20px 0; /* Adjust the padding as desired */
+    background-color: #f1f1f1; /* Adjust the background color as desired */
+  }
+  
+ .h2 {
+    color: #002633;
+   margin-left: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+  

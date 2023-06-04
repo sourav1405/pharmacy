@@ -1,0 +1,36 @@
+.con {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f1f1f1;
+  }
+  
+  .contain {
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .componen {
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f3eaea;
+    margin: 0 10px;
+    border-radius: 10px;
+  }
+  
+  five-h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  five-p {
+    font-size: 10px;
+  }
+  
